@@ -23,4 +23,5 @@ Thumbs.db
 *.swn
 
 # RubyMine
-/.idea/
+.idea/**/workspace.xml
+.idea/**/tasks.xml
